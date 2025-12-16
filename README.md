@@ -1,36 +1,29 @@
 <div align="center" markdown="1">
-   <sup>Special thanks to:</sup>
-   <br>
-   <br>
-   <a href="https://tuple.app/every-programmer-should-know">
-    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
+   <a href="https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship">
+    <img width="400" alt="FTSE sponsorship card" src="https://github.com/user-attachments/assets/d28ddea3-ed5b-499c-b3e6-6066001a3618" />
+
    </a>
 
-### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
+### [Become a World-Class Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship)
 
-[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
+[Learn directly from repo author (33% off)](https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship)<br>
 
 </div>
-
-----
-<div align="center" markdown="1">
-  Want to become a Senior Engineer sooner?  
-
-  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
-</div>
-
-----
 
 # Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.
 
-:point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
+*These are resources I can recommend to every programmer regardless of their skill level or tech stack*
 
 Highly opinionated :bomb:. Not backed by science.
 Comes in no particular order :recycle:
 
-U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
-U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
+<br>
+
+### :star: it and share with a friendly developer!  
+
+<br>
+<br>
 
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.
 But knowing the stuff will help you become better! :muscle:*
