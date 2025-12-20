@@ -1,12 +1,13 @@
 <div align="center" markdown="1">
-   <a href="https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship">
-    <img width="400" alt="FTSE sponsorship card" src="https://github.com/user-attachments/assets/d28ddea3-ed5b-499c-b3e6-6066001a3618" />
+   <a href="https://mylevel.dev?utm_source=github&utm_medium=gh_banner&utm_campaign=gh_sponsorship">
+    <img width="400" alt="FTSE sponsorship card" src="https://github.com/user-attachments/assets/32ad7485-feec-4f87-b213-7c4ecfbe7fea" />
+
 
    </a>
 
-### [Become a World-Class Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship)
+### [Measure your Software Developer level against a cross-industry benchmark FOR FREE!](https://mylevel.dev?utm_source=github&utm_medium=gh_link&utm_campaign=gh_sponsorship)
 
-[Learn directly from repo author (33% off)](https://maven.com/top-engineer/fast-track-to-senior/?promoCode=FTSE33&utm_source=instructor&utm_medium=gh_banner&utm_campaign=gh_sponsorship)<br>
+[Take a quiz and get instant results](https://mylevel.dev?utm_source=github&utm_medium=gh_sublink&utm_campaign=gh_sponsorship)<br>
 
 </div>
 
