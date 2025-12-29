@@ -5,9 +5,9 @@
 
    </a>
 
-### [Measure your Software Developer level against a cross-industry benchmark FOR FREE!](https://mylevel.dev?utm_source=github&utm_medium=gh_link&utm_campaign=gh_sponsorship)
+### [Measure your Software Developer level against a cross-industry benchmark in 10 minutes!](https://mylevel.dev?utm_source=github&utm_medium=gh_link&utm_campaign=gh_sponsorship)
 
-[Take a quiz and get instant results](https://mylevel.dev?utm_source=github&utm_medium=gh_sublink&utm_campaign=gh_sponsorship)<br>
+[Take a FREE quiz (no email submission required) and get instant results](https://mylevel.dev?utm_source=github&utm_medium=gh_sublink&utm_campaign=gh_sponsorship)<br>
 
 </div>
 
